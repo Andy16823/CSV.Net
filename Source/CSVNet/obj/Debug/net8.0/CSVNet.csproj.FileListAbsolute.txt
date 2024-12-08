@@ -1,0 +1,11 @@
+C:\Users\andy1\source\repos\CSVNet\CSVNet\obj\Debug\net8.0\CSVNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andy1\source\repos\CSVNet\CSVNet\obj\Debug\net8.0\CSVNet.AssemblyInfoInputs.cache
+C:\Users\andy1\source\repos\CSVNet\CSVNet\obj\Debug\net8.0\CSVNet.AssemblyInfo.cs
+C:\Users\andy1\source\repos\CSVNet\CSVNet\obj\Debug\net8.0\CSVNet.csproj.CoreCompileInputs.cache
+C:\Users\andy1\source\repos\CSVNet\CSVNet\bin\Debug\net8.0\CSVNet.deps.json
+C:\Users\andy1\source\repos\CSVNet\CSVNet\bin\Debug\net8.0\CSVNet.dll
+C:\Users\andy1\source\repos\CSVNet\CSVNet\bin\Debug\net8.0\CSVNet.pdb
+C:\Users\andy1\source\repos\CSVNet\CSVNet\obj\Debug\net8.0\CSVNet.dll
+C:\Users\andy1\source\repos\CSVNet\CSVNet\obj\Debug\net8.0\refint\CSVNet.dll
+C:\Users\andy1\source\repos\CSVNet\CSVNet\obj\Debug\net8.0\CSVNet.pdb
+C:\Users\andy1\source\repos\CSVNet\CSVNet\obj\Debug\net8.0\ref\CSVNet.dll
