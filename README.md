@@ -1,8 +1,8 @@
 
 # CSV.Net
 
-[![NuGet](https://img.shields.io/nuget/v/CSVNet.svg)](https://www.nuget.org/packages/CSVNetCore/)
-[![NuGet Downloads](https://img.shields.io/nuget/dt/CSVNet.svg)](https://www.nuget.org/packages/CSVNetCore/)
+[![NuGet](https://img.shields.io/nuget/v/CSVNetCore.svg)](https://www.nuget.org/packages/CSVNetCore/)
+[![NuGet Downloads](https://img.shields.io/nuget/dt/CSVNetCore.svg)](https://www.nuget.org/packages/CSVNetCore/)
 
 CSV.Net is a flexible and easy-to-use library for serializing and deserializing objects to and from CSV files. It leverages reflection to map CSV columns to object properties and supports custom formatting for numeric types based on culture-specific settings.
 
