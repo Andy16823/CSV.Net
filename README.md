@@ -1,6 +1,6 @@
 
 # CSV.Net
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![NuGet](https://img.shields.io/nuget/v/CSVNetCore.svg)](https://www.nuget.org/packages/CSVNetCore/)
 [![NuGet Downloads](https://img.shields.io/nuget/dt/CSVNetCore.svg)](https://www.nuget.org/packages/CSVNetCore/)
 
